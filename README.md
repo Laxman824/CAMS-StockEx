@@ -99,8 +99,9 @@ The Simplified Stock Exchange Platform is a web application that demonstrates th
 For more detailed information on functional requirements, non-functional requirements, and assessment criteria, please refer to the project documentation.
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/10.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/11.png" width="500" alt="Screenshot 1" />
+<img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/16.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/12.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/13.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/14.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/15.png" width="500" alt="Screenshot 1" />
-<img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/16.png" width="500" alt="Screenshot 1" />
+
