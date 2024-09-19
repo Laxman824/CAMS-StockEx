@@ -103,3 +103,4 @@ For more detailed information on functional requirements, non-functional require
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/13.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/14.png" width="500" alt="Screenshot 1" />
 <img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/15.png" width="500" alt="Screenshot 1" />
+<img src="https://github.com/Laxman824/CAMS-StockEx/blob/main/screenshots/16.png" width="500" alt="Screenshot 1" />
